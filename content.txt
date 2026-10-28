@@ -1,0 +1,28 @@
+BÀI TẬP THỰC HÀNH 1
+https://www.w3schools.com/w3css/tryw3css_templates_band.html
+
+1.Phân tích
+   1.header
+   2.slider
+   3.content
+      1.about (giới thiệu)
+      2.tour
+      3.contact (liên hệ)
+      4.image
+      
+   4.footer
+2.Dựng base
+3.Xây dựng từng phần theo phân tích
+4.Hoàn thiện
+
+
+
+NHỮNG THÀNH PHẦN THƯỜNG GẶP TRÊN GIAO DIỆN WEBSITE:
+1.Header(đầu trang)
+2.Navigation(điều hướng)
+3.Breadcrumb (vd học html > bài 1 )
+4.Sidebar (thanh bên trái hoặc bên phải màn hình)
+5.Slider(thông thường là hình ảnh trượt)
+6.Content(nội dung chính)
+7.Footer (cuối trang)
+
